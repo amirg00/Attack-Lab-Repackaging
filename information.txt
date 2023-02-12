@@ -1,0 +1,305 @@
+################## DEVICE INFORMATION ##################
+Sdk version: 33
+OS Release version: 13
+Device: emu64a
+Model: sdk_gphone64_arm64
+Product: sdk_gphone64_arm64
+Manufacturer: Google
+Serial number: unknown
+Bootloader version: unknown
+Radio version: 1.0.0.0
+Brand: google
+Hardware: ranchu
+Fingerprint: google/sdk_gphone64_arm64/emu64a:13/TE1A.220922.012/9302419:userdebug/dev-keys
+Tags: dev-keys
+Type: userdebug
+Android Build User Property: android-build
+Build time: 1668654588000
+Host: abfarm-release-rbe-32-2004-00134
+Build ID: TE1A.220922.012
+################## SYSTEM PROPERTIES ##################
+Operating System Name: Linux
+Operating System Version: 5.15.41-android13-8-00055-g4f5025129fe8-ab8949913
+Operating System Arch: aarch64
+Java Class Path Information: .
+Java Vendor: The Android Project
+Java Version: 0
+Java System User Name Property: root
+Java Library Path: The Android Project
+Java Version: 0
+Java IO Tmpdir: /data/user/0/com.MagicDate/cache
+Java EXT Dir: 
+JRE Location: 
+Time Zone: null
+File Encoding: UTF-8
+Sun Jnu Encoding: null
+JVM Version: 2.1.0
+JVM Name: Dalvik
+Sun Boot Library Path: null
+Java Compiler: 
+KeyStore: null
+KeyStore Password: null
+HTTPS Proxy Host: null
+HTTPS Proxy Port: null
+User Country: null
+PreferIPv4Stack: null
+PreferIPv6Addresses: false
+Sun Arch Data Model: null
+Sun cpu Isalist: null
+Java Specification Name: Dalvik Core Library
+Java Specification version: 0.9
+Java Specification vendor: The Android Project
+User Directory: /
+################## DISPLAY INFORMATION ##################
+Screen Width: 1080
+Screen Height: 2009
+Screen Density: 2.75
+################## NETWORK INFORMATION ##################
+Connectivity status: Connected
+Roaming status: Not Roaming
+Network type: WIFI
+Network subtype: 
+Public IP Address: 46.121.83.73
+Host Local IP Address: 127.0.0.1
+Host Name: localhost
+Network Operator Name: T-Mobile
+Network Country: us
+Private IP Address: 10.0.2.16
+MAC Address: 02:00:00:00:00:00
+Link Speed: 1 Mbps
+DNS Server IP Address: 10.0.2.3
+BSSID: 02:00:00:00:00:00 SSID: <unknown ssid>
+################## SENSORS INFORMATION ##################
+Sensor 1: android.sensor.accelerometer
+Sensor 4: android.sensor.gyroscope
+Sensor 2: android.sensor.magnetic_field
+Sensor 3: android.sensor.orientation
+Sensor 13: android.sensor.ambient_temperature
+Sensor 8: android.sensor.proximity
+Sensor 5: android.sensor.light
+Sensor 6: android.sensor.pressure
+Sensor 12: android.sensor.relative_humidity
+Sensor 14: android.sensor.magnetic_field_uncalibrated
+Sensor 15: android.sensor.game_rotation_vector
+Sensor 20: android.sensor.geomagnetic_rotation_vector
+Sensor 9: android.sensor.gravity
+Sensor 10: android.sensor.linear_acceleration
+Sensor 11: android.sensor.rotation_vector
+Sensor 3: android.sensor.orientation
+################## CAMERA INFORMATION ##################
+Camera 1 Facing: Back Facing Camera
+Camera 2 Facing: Front Facing Camera
+################## STORAGE INFORMATION ##################
+Internal Total Space: 6228115456 bytes
+Internal Free Space: 5166092288 bytes
+External Total Space: 6228115456 bytes
+External Free Space: 5166092288 bytes
+################## INSTALLED APPLICATIONS ##################
+App 1 Package Name: com.google.android.networkstack.tethering (SYSTEM)
+App 2 Package Name: com.android.cts.priv.ctsshim (SYSTEM)
+App 3 Package Name: com.google.android.youtube (SYSTEM)
+App 4 Package Name: com.android.uwb.resources (SYSTEM)
+App 5 Package Name: com.android.internal.display.cutout.emulation.corner (SYSTEM)
+App 6 Package Name: com.google.android.ext.services (SYSTEM)
+App 7 Package Name: com.android.internal.display.cutout.emulation.double (SYSTEM)
+App 8 Package Name: com.android.providers.telephony (SYSTEM)
+App 9 Package Name: com.android.dynsystem (SYSTEM)
+App 10 Package Name: com.google.android.googlequicksearchbox (SYSTEM)
+App 11 Package Name: com.google.android.cellbroadcastservice (SYSTEM)
+App 12 Package Name: com.android.providers.calendar (SYSTEM)
+App 13 Package Name: com.android.providers.media (SYSTEM)
+App 14 Package Name: com.google.android.onetimeinitializer (SYSTEM)
+App 15 Package Name: com.google.android.ext.shared (SYSTEM)
+App 16 Package Name: com.android.internal.systemui.navbar.gestural_wide_back (SYSTEM)
+App 17 Package Name: com.android.wallpapercropper (SYSTEM)
+App 18 Package Name: com.android.managedprovisioning.auto_generated_rro_product__ (SYSTEM)
+App 19 Package Name: com.android.carrierconfig.auto_generated_rro_vendor__ (SYSTEM)
+App 20 Package Name: com.android.systemui.emulation.pixel_3_xl (SYSTEM)
+App 21 Package Name: com.android.systemui.emulation.pixel_4_xl (SYSTEM)
+App 22 Package Name: com.android.simappdialog.auto_generated_rro_product__ (SYSTEM)
+App 23 Package Name: com.android.externalstorage (SYSTEM)
+App 24 Package Name: com.android.htmlviewer (SYSTEM)
+App 25 Package Name: com.android.companiondevicemanager (SYSTEM)
+App 26 Package Name: com.android.mms.service (SYSTEM)
+App 27 Package Name: com.android.providers.downloads (SYSTEM)
+App 28 Package Name: com.android.systemui.auto_generated_rro_product__ (SYSTEM)
+App 29 Package Name: com.google.android.apps.messaging (SYSTEM)
+App 30 Package Name: com.google.android.soundpicker (SYSTEM)
+App 31 Package Name: com.breel.wallpapers18 (SYSTEM)
+App 32 Package Name: com.google.android.configupdater (SYSTEM)
+App 33 Package Name: com.android.internal.emulation.pixel_3a_xl (SYSTEM)
+App 34 Package Name: com.google.android.providers.media.module (SYSTEM)
+App 35 Package Name: com.android.internal.emulation.pixel_3a (SYSTEM)
+App 36 Package Name: com.android.internal.emulation.pixel_4a (SYSTEM)
+App 37 Package Name: com.google.android.overlay.googlewebview (SYSTEM)
+App 38 Package Name: com.android.systemui.plugin.globalactions.wallet (SYSTEM)
+App 39 Package Name: com.android.providers.downloads.ui (SYSTEM)
+App 40 Package Name: com.google.android.hotspot2.osulogin (SYSTEM)
+App 41 Package Name: com.android.vending (SYSTEM)
+App 42 Package Name: com.android.pacprocessor (SYSTEM)
+App 43 Package Name: com.android.simappdialog (SYSTEM)
+App 44 Package Name: com.google.android.adservices.api (SYSTEM)
+App 45 Package Name: com.android.internal.display.cutout.emulation.hole (SYSTEM)
+App 46 Package Name: com.android.internal.display.cutout.emulation.tall (SYSTEM)
+App 47 Package Name: com.android.certinstaller (SYSTEM)
+App 48 Package Name: com.android.carrierconfig (SYSTEM)
+App 49 Package Name: com.android.internal.systemui.navbar.threebutton (SYSTEM)
+App 50 Package Name: android (SYSTEM)
+App 51 Package Name: com.android.camera2 (SYSTEM)
+App 52 Package Name: com.MagicDate (USER)
+App 53 Package Name: com.google.android.sdksandbox (SYSTEM)
+App 54 Package Name: com.android.egg (SYSTEM)
+App 55 Package Name: com.android.mtp (SYSTEM)
+App 56 Package Name: com.android.nfc (SYSTEM)
+App 57 Package Name: com.android.ons (SYSTEM)
+App 58 Package Name: com.android.stk (SYSTEM)
+App 59 Package Name: com.android.backupconfirm (SYSTEM)
+App 60 Package Name: com.android.systemui.auto_generated_rro_vendor__ (SYSTEM)
+App 61 Package Name: com.google.android.deskclock (SYSTEM)
+App 62 Package Name: com.android.internal.systemui.navbar.twobutton (SYSTEM)
+App 63 Package Name: com.google.android.as (SYSTEM)
+App 64 Package Name: com.google.android.gm (SYSTEM)
+App 65 Package Name: com.android.internal.systemui.navbar.gestural_extra_wide_back (SYSTEM)
+App 66 Package Name: com.google.android.permissioncontroller (SYSTEM)
+App 67 Package Name: com.android.systemui.emulation.pixel_3 (SYSTEM)
+App 68 Package Name: com.android.systemui.emulation.pixel_4 (SYSTEM)
+App 69 Package Name: com.android.systemui.emulation.pixel_5 (SYSTEM)
+App 70 Package Name: com.google.android.setupwizard (SYSTEM)
+App 71 Package Name: com.android.emulator.radio.config (SYSTEM)
+App 72 Package Name: com.android.providers.settings (SYSTEM)
+App 73 Package Name: com.android.sharedstoragebackup (SYSTEM)
+App 74 Package Name: com.android.nfc.auto_generated_rro_product__ (SYSTEM)
+App 75 Package Name: com.android.printspooler (SYSTEM)
+App 76 Package Name: com.android.emergency.auto_generated_rro_product__ (SYSTEM)
+App 77 Package Name: com.google.android.connectivity.resources.goldfish.overlay (SYSTEM)
+App 78 Package Name: com.android.dreams.basic (SYSTEM)
+App 79 Package Name: com.google.android.networkstack.tethering.emulator (SYSTEM)
+App 80 Package Name: com.android.providers.settings.auto_generated_rro_product__ (SYSTEM)
+App 81 Package Name: com.google.android.as.oss (SYSTEM)
+App 82 Package Name: com.android.se (SYSTEM)
+App 83 Package Name: com.android.inputdevices (SYSTEM)
+App 84 Package Name: com.android.traceur.auto_generated_rro_product__ (SYSTEM)
+App 85 Package Name: com.google.android.apps.wellbeing (SYSTEM)
+App 86 Package Name: com.google.android.dialer (SYSTEM)
+App 87 Package Name: com.android.bips (SYSTEM)
+App 88 Package Name: com.android.internal.emulation.pixel_3 (SYSTEM)
+App 89 Package Name: com.android.internal.emulation.pixel_4 (SYSTEM)
+App 90 Package Name: com.android.internal.emulation.pixel_5 (SYSTEM)
+App 91 Package Name: com.google.android.captiveportallogin (SYSTEM)
+App 92 Package Name: com.android.musicfx (SYSTEM)
+App 93 Package Name: com.google.android.apps.docs (SYSTEM)
+App 94 Package Name: com.google.android.apps.maps (SYSTEM)
+App 95 Package Name: com.google.android.modulemetadata (SYSTEM)
+App 96 Package Name: com.android.internal.display.cutout.emulation.emu01 (SYSTEM)
+App 97 Package Name: com.google.android.markup (SYSTEM)
+App 98 Package Name: com.android.providers.settings.auto_generated_rro_vendor__ (SYSTEM)
+App 99 Package Name: com.android.cellbroadcastreceiver (SYSTEM)
+App 100 Package Name: com.google.android.webview (SYSTEM)
+App 101 Package Name: com.google.android.bluetooth.services (SYSTEM)
+App 102 Package Name: com.google.android.networkstack (SYSTEM)
+App 103 Package Name: com.google.android.contacts (SYSTEM)
+App 104 Package Name: com.android.server.telecom (SYSTEM)
+App 105 Package Name: com.android.keychain (SYSTEM)
+App 106 Package Name: com.android.server.telecom.auto_generated_rro_product__ (SYSTEM)
+App 107 Package Name: com.google.android.overlay.googleconfig (SYSTEM)
+App 108 Package Name: com.android.chrome (SYSTEM)
+App 109 Package Name: com.android.bips.auto_generated_rro_product__ (SYSTEM)
+App 110 Package Name: com.google.android.packageinstaller (SYSTEM)
+App 111 Package Name: com.google.android.apps.customization.pixel (SYSTEM)
+App 112 Package Name: com.google.android.gms (SYSTEM)
+App 113 Package Name: com.google.android.gsf (SYSTEM)
+App 114 Package Name: com.google.android.ims (SYSTEM)
+App 115 Package Name: com.google.android.tag (SYSTEM)
+App 116 Package Name: com.google.android.tts (SYSTEM)
+App 117 Package Name: com.google.android.overlay.permissioncontroller (SYSTEM)
+App 118 Package Name: com.android.calllogbackup (SYSTEM)
+App 119 Package Name: com.google.android.partnersetup (SYSTEM)
+App 120 Package Name: com.android.cameraextensions (SYSTEM)
+App 121 Package Name: com.google.android.apps.wallpaper.nexus (SYSTEM)
+App 122 Package Name: com.android.localtransport (SYSTEM)
+App 123 Package Name: com.google.android.apps.nexuslauncher (SYSTEM)
+App 124 Package Name: com.google.android.nearby.halfsheet (SYSTEM)
+App 125 Package Name: com.android.carrierdefaultapp (SYSTEM)
+App 126 Package Name: com.android.theme.font.notoserifsource (SYSTEM)
+App 127 Package Name: com.android.proxyhandler (SYSTEM)
+App 128 Package Name: com.google.android.safetycenter.resources (SYSTEM)
+App 129 Package Name: com.android.internal.display.cutout.emulation.waterfall (SYSTEM)
+App 130 Package Name: com.android.intentresolver (SYSTEM)
+App 131 Package Name: com.google.android.connectivity.resources (SYSTEM)
+App 132 Package Name: com.android.providers.contacts.auto_generated_rro_product__ (SYSTEM)
+App 133 Package Name: com.google.android.feedback (SYSTEM)
+App 134 Package Name: com.google.android.printservice.recommendation (SYSTEM)
+App 135 Package Name: com.google.android.apps.photos (SYSTEM)
+App 136 Package Name: com.google.android.calendar (SYSTEM)
+App 137 Package Name: com.android.managedprovisioning (SYSTEM)
+App 138 Package Name: com.android.soundpicker (SYSTEM)
+App 139 Package Name: com.google.android.documentsui (SYSTEM)
+App 140 Package Name: com.android.systemui.emulation.pixel_3a_xl (SYSTEM)
+App 141 Package Name: com.google.mainline.telemetry (SYSTEM)
+App 142 Package Name: com.google.android.systemui.gxoverlay (SYSTEM)
+App 143 Package Name: com.android.carrierconfig.auto_generated_rro_product__ (SYSTEM)
+App 144 Package Name: com.android.emulator.multidisplay (SYSTEM)
+App 145 Package Name: com.android.providers.partnerbookmarks (SYSTEM)
+App 146 Package Name: com.android.wallpaper.livepicker (SYSTEM)
+App 147 Package Name: com.android.providers.telephony.auto_generated_rro_product__ (SYSTEM)
+App 148 Package Name: com.android.phone.auto_generated_rro_vendor__ (SYSTEM)
+App 149 Package Name: com.google.mainline.adservices (SYSTEM)
+App 150 Package Name: com.android.imsserviceentitlement (SYSTEM)
+App 151 Package Name: com.google.android.sdksetup (SYSTEM)
+App 152 Package Name: com.google.android.gms.supervision (SYSTEM)
+App 153 Package Name: com.android.internal.emulation.pixel_2_xl (SYSTEM)
+App 154 Package Name: com.android.internal.emulation.pixel_3_xl (SYSTEM)
+App 155 Package Name: com.android.internal.emulation.pixel_4_xl (SYSTEM)
+App 156 Package Name: com.android.storagemanager (SYSTEM)
+App 157 Package Name: com.android.bookmarkprovider (SYSTEM)
+App 158 Package Name: com.google.android.overlay.pixelconfigcommon (SYSTEM)
+App 159 Package Name: com.android.settings (SYSTEM)
+App 160 Package Name: com.android.systemui.emulation.pixel_3a (SYSTEM)
+App 161 Package Name: com.android.systemui.emulation.pixel_4a (SYSTEM)
+App 162 Package Name: com.google.android.settings.intelligence (SYSTEM)
+App 163 Package Name: com.google.android.projection.gearhead (SYSTEM)
+App 164 Package Name: com.android.cts.ctsshim (SYSTEM)
+App 165 Package Name: com.google.android.wifi.resources (SYSTEM)
+App 166 Package Name: com.android.remoteprovisioner (SYSTEM)
+App 167 Package Name: com.google.android.wifi.dialog (SYSTEM)
+App 168 Package Name: com.android.vpndialogs (SYSTEM)
+App 169 Package Name: com.google.android.apps.wallpaper (SYSTEM)
+App 170 Package Name: com.google.android.odad (SYSTEM)
+App 171 Package Name: com.android.phone (SYSTEM)
+App 172 Package Name: com.android.shell (SYSTEM)
+App 173 Package Name: com.android.wallpaperbackup (SYSTEM)
+App 174 Package Name: com.example.myapplication (USER)
+App 175 Package Name: com.android.providers.blockednumber (SYSTEM)
+App 176 Package Name: com.android.settings.auto_generated_rro_product__ (SYSTEM)
+App 177 Package Name: com.android.providers.userdictionary (SYSTEM)
+App 178 Package Name: com.android.emergency (SYSTEM)
+App 179 Package Name: com.android.internal.systemui.navbar.gestural (SYSTEM)
+App 180 Package Name: com.android.location.fused (SYSTEM)
+App 181 Package Name: com.android.systemui (SYSTEM)
+App 182 Package Name: com.google.android.ondevicepersonalization.services (SYSTEM)
+App 183 Package Name: com.google.android.apps.youtube.music (SYSTEM)
+App 184 Package Name: com.android.bluetoothmidiservice (SYSTEM)
+App 185 Package Name: com.android.traceur (SYSTEM)
+App 186 Package Name: com.android.storagemanager.auto_generated_rro_product__ (SYSTEM)
+App 187 Package Name: com.google.android.cellbroadcastreceiver (SYSTEM)
+App 188 Package Name: com.android.phone.auto_generated_rro_product__ (SYSTEM)
+App 189 Package Name: android.auto_generated_rro_product__ (SYSTEM)
+App 190 Package Name: com.android.bluetooth (SYSTEM)
+App 191 Package Name: com.android.providers.contacts (SYSTEM)
+App 192 Package Name: com.android.internal.systemui.navbar.gestural_narrow_back (SYSTEM)
+App 193 Package Name: com.google.android.inputmethod.latin (SYSTEM)
+App 194 Package Name: android.auto_generated_rro_vendor__ (SYSTEM)
+App 195 Package Name: com.google.android.apps.restore (SYSTEM)
+################## MEMORY & CPU INFORMATION ##################
+***** MEMORY INFORMATION *****
+Total Memory: 2057527296 KB
+Total Available Memory: 470679552 KB
+Total Pss Memory: 38538 KB
+Dalvik Pss Memory: 7347 KB
+***** CPU USAGE SECTION *****
+Number Of CPU Cores: 4
+***** PROCESSES *****
+Process Name: com.MagicDate
+PID: 24854
+Memory Size: 30 KB
+#########################################################
